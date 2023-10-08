@@ -1,8 +1,8 @@
 # Lavalust Crud
-Output:
-![image](https://github.com/K1ngJJ/Lavalust_Crd/assets/144676325/57c539e1-1c59-4c34-88d5-44a4c081ba6e)
-Name: Pacheco, King JayJay A.
 
+Output: ![image](https://github.com/Jhun260Sloth/ITE-311-LavaAct/assets/99332717/2d145518-c139-45b2-b311-3bf88cd6fe65)
+
+Name: Jhunnel De Jesus
 Section: 3-F1
 
 
